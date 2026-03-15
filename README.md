@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Sethi</h1>
 
 <p align="center">
-🚀 AI & Data Science Student | IoT Innovator | Tech Builder
+ AI & Data Science Student | IoT Innovator | Tech Builder
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 <p align="center">
 
@@ -42,7 +42,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 
@@ -52,7 +52,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <p align="center">
 
@@ -62,7 +62,7 @@
 
 ---
 
-# 📜 Daily Developer Quote
+#  Daily Developer Quote
 
 <p align="center">
 
@@ -74,7 +74,7 @@ This quote **changes automatically every day**.
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ### 🔹 NoteNetra
 AI powered currency detection system using **ESP32 + Color Sensors**
@@ -107,7 +107,7 @@ IoT powered **WiFi currency transaction system**
 
 ---
 
-# 👀 Visitor Counter
+#  Visitor Counter
 
 <p align="center">
 
