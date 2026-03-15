@@ -1,31 +1,36 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Sethi</h1>
-<h3 align="center">🚀 AI & Data Science Student | IoT Developer | Tech Innovator</h3>
 
 <p align="center">
-Building futuristic tech projects using AI, IoT, and Cyber Security ⚡
+🚀 AI & Data Science Student | IoT Innovator | Tech Builder
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;IoT+Innovator;Cyber+Security+Explorer;Hackathon+Builder;Future+Tech+Creator&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-- 🎓 B.Tech in Artificial Intelligence & Data Science
-- 🔭 Currently building **Smart IoT and AI Projects**
-- 💡 Creator of projects like **NoteNetra, SafeSphere**
+- 🎓 B.Tech Artificial Intelligence & Data Science
+- 💡 Passionate about **AI, IoT, Cyber Security**
+- 🔬 Creator of projects like **NoteNetra & SafeSphere**
 - ⚡ Love building **real-world tech solutions**
 - 🌍 Dream: Build technology that impacts millions
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,flutter,firebase,js,ts,react,nodejs,mongodb,figma,git,linux,arduino,c,cpp"/>
+
+<img src="https://skillicons.dev/icons?i=python,flutter,firebase,react,nodejs,mongodb,js,ts,arduino,linux,git,c,cpp,figma"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -37,21 +42,52 @@ Building futuristic tech projects using AI, IoT, and Cyber Security ⚡
 
 ---
 
-## 🔥 Streak Stats
+# 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitanyasethi1&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 📜 Daily Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+
+</p>
+
+This quote **changes automatically every day**.
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 NoteNetra
+AI powered currency detection system using **ESP32 + Color Sensors**
+
+### 🔹 SafeSphere
+AI based **women safety predictive mapping system**
+
+### 🔹 Smart Currency Counter
+IoT powered **WiFi currency transaction system**
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -71,12 +107,14 @@ Building futuristic tech projects using AI, IoT, and Cyber Security ⚡
 
 ---
 
-## 👀 Visitor Counter
+# 👀 Visitor Counter
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Chaitanyasethi1&color=blue&style=flat-square"/>
+
+<img src="https://komarev.com/ghpvc/?username=Chaitanyasethi1&color=blue&style=for-the-badge">
+
 </p>
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
