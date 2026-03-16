@@ -10,7 +10,7 @@ AI & Data Science Student • IoT Developer • Tech Innovator
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,flutter,firebase,js,react,nodejs,mongodb,arduino,linux,git,c,cpp,figma"/>
@@ -18,7 +18,7 @@ AI & Data Science Student • IoT Developer • Tech Innovator
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -30,7 +30,7 @@ AI & Data Science Student • IoT Developer • Tech Innovator
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Chaitanyasethi1&theme=tokyonight"/>
@@ -38,7 +38,7 @@ AI & Data Science Student • IoT Developer • Tech Innovator
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Chaitanyasethi1/Chaitanyasethi1/output/github-contribution-grid-snake.svg">
@@ -46,7 +46,7 @@ AI & Data Science Student • IoT Developer • Tech Innovator
 
 ---
 
-## 📜 Daily Quote
+##  Daily Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
@@ -54,7 +54,7 @@ AI & Data Science Student • IoT Developer • Tech Innovator
 
 ---
 
-## 👀 Profile Views
+##  Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Chaitanyasethi1&style=for-the-badge">
