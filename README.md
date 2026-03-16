@@ -1,120 +1,95 @@
-<h1 align="center">Hi 👋, I'm Chaitanya Sethi</h1>
+<h1 align="left">Hi 👋! I'm Chaitanya Sethi and I build futuristic tech 🚀</h1>
 
-<p align="center">
- AI & Data Science Student | IoT Innovator | Tech Builder
-</p>
+###
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;IoT+Innovator;Cyber+Security+Explorer;Hackathon+Builder;Future+Tech+Creator&center=true&width=500&height=45">
-</p>
+🎨 Tech is my playground: I use technology to build solutions that make life smarter and better.<br>
+🌟 Inspired by innovators: Visionaries like Elon Musk push me to think bigger and build impactful technology.<br>
+🏗️ Building the future: I’m creating projects using AI, IoT, and software that solve real-world problems.
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaitanyasethi1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chaitanyasethi1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150"/>
+</div>
 
-# 🧠 About Me
+###
 
-- 🎓 B.Tech Artificial Intelligence & Data Science
-- 💡 Passionate about **AI, IoT, Cyber Security**
-- 🔬 Creator of projects like **NoteNetra & SafeSphere**
-- ⚡ Love building **real-world tech solutions**
-- 🌍 Dream: Build technology that impacts millions
+<img align="right" height="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
----
+###
 
-#  Tech Stack
+<div align="left">
 
-<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+<img width="12"/>
 
-<img src="https://skillicons.dev/icons?i=python,flutter,firebase,react,nodejs,mongodb,js,ts,arduino,linux,git,c,cpp,figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30"/>
+<img width="12"/>
 
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30"/>
+<img width="12"/>
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+<img width="12"/>
 
-# 📊 GitHub Stats
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+<img width="12"/>
 
-<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
+<img width="12"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chaitanyasethi1&show_icons=true&theme=tokyonight"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30"/>
+<img width="12"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanyasethi1&layout=compact&theme=tokyonight"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
+<img width="12"/>
 
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+<img width="12"/>
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
+<img width="12"/>
 
-#  GitHub Streak
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
 
-<p align="center">
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaitanyasethi1&theme=tokyonight"/>
+###
 
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
-
-</p>
-
----
-
-#  Daily Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-
-</p>
-
-This quote **changes automatically every day**.
-
----
-
-#  Featured Projects
-
-### 🔹 NoteNetra
-AI powered currency detection system using **ESP32 + Color Sensors**
-
-### 🔹 SafeSphere
-AI based **women safety predictive mapping system**
-
-### 🔹 Smart Currency Counter
-IoT powered **WiFi currency transaction system**
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
+<div align="left">
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
 </a>
 
 <a href="https://youtube.com">
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/>
+<img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35"/>
 </a>
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
 </a>
 
-</p>
+<a href="https://x.com">
+<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="35"/>
+</a>
+
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Chaitanyasethi1/Chaitanyasethi1/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 ---
 
-#  Visitor Counter
+# 📊 GitHub Streak
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Chaitanyasethi1&color=blue&style=for-the-badge">
-
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chaitanyasethi1&theme=dark&hide_border=false)
 
 ---
 
-# ⚡ Fun Fact
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
