@@ -38,13 +38,8 @@ AI & Data Science Student • IoT Developer • Tech Innovator
 
 ---
 
-##  Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Chaitanyasethi1/Chaitanyasethi1/output/github-contribution-grid-snake.svg">
-</p>
 
----
 
 ##  Daily Quote
 
