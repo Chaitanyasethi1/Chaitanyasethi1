@@ -7,14 +7,11 @@
 <br>
 
 <p>
-<a href="https://www.linkedin.com/in/chaitanyasethi">
+<a href="https://www.linkedin.com/in/chaitanyasethi009">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:chaitanyasethi@gmail.com">
+<a href="mailto:chaitanyasethi3336@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/chaitanyasethi1">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=111111"/>
 </a>
 <a href="https://www.airavatxdr.in/">
 <img src="https://img.shields.io/badge/AIRAVAT_XDR-Live-111827?style=flat-square"/>
@@ -90,7 +87,6 @@ Also contributing to production AI infrastructure, including an autonomous agent
 | 🇮🇳 **India Innovates 2026**              |    National Finalist   |
 | 🚀 **Samsung Solve for Tomorrow 2025**     | Top 10 / 20,000+ teams |
 | 🥇 **Supernova Hackathon — GL Bajaj 2025** |        1st Place       |
-| 🌐 **Google Student Ambassador 2026**      |   1 of ~50 nationally  |
 
 </div>
 
@@ -185,24 +181,22 @@ Top 10 — Samsung Solve for Tomorrow 2025
 
 <td width="50%" valign="top">
 
-## 🫁 PulmoWarn
+## 🎙️ Voice-Based AI Caller
 
-### Respiratory Monitoring System
+### Autonomous Business Calling Agent
 
-Dual-sensor monitoring concept combining acoustic and CO₂ signals to detect potential respiratory deterioration.
+An intelligent voice-based AI bot built specifically for business communications. It can autonomously handle calls, engage with clients naturally, and process business workflows during the conversation.
 
-Built around:
+**Features**
 
-* Real-time sensor processing
-* Canvas-based visualization
-* Multi-level alert escalation
-* Zero external chart libraries
+* Natural conversational flow
+* Low-latency voice processing
+* Dynamic context switching
+* Business logic integration
 
 **Stack**
 
-`JavaScript` `Canvas API` `Sensors`
-
-[Repository →](https://github.com/Chaitanyasethi1/Pulmowarn)
+`Python` `LLMs` `Speech-to-Text` `Text-to-Speech` `FastAPI`
 
 </td>
 
@@ -353,7 +347,6 @@ I'm particularly interested in the layer **between an AI model and a production 
  │
  ├── Software Engineering Internship @ 7rd.ai
  ├── India Innovates — National Finalist
- ├── Google Student Ambassador
  ├── LLM + RAG systems
  ├── Autonomous AI agents
  └── Production AI infrastructure
@@ -396,26 +389,6 @@ I want my GitHub to reflect **what I can build**, not simply what technologies I
 
 ---
 
-# 💻 Competitive Programming
-
-**LeetCode:** [@chaitanyasethi1](https://leetcode.com/u/chaitanyasethi1)
-
-Currently strengthening:
-
-`Data Structures` · `Algorithms` · `Dynamic Programming` · `Graphs` · `Problem Solving`
-
----
-
-# 🌐 Community
-
-### Google Student Ambassador — 2026
-
-Selected as **1 of approximately 50 students nationally**.
-
-Focused on learning, building, and helping other students explore technology and developer ecosystems.
-
----
-
 # 🎯 2026 Goals
 
 ```text
@@ -440,11 +413,11 @@ Focused on learning, building, and helping other students explore technology and
 
 <br>
 
-<a href="https://www.linkedin.com/in/chaitanyasethi">
+<a href="https://www.linkedin.com/in/chaitanyasethi009">
 <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:chaitanyasethi@gmail.com">
+<a href="mailto:chaitanyasethi3336@gmail.com">
 <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
