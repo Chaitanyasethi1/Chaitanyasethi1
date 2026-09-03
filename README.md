@@ -145,8 +145,6 @@ Full-stack NLP system mapping natural-language product descriptions to **500+ go
 
 `Python` `FastAPI` `React` `NLP` `ML`
 
-[Repository →](https://github.com/Chaitanyasethi1/AiKOSH)
-
 </td>
 
 </tr>
